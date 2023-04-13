@@ -2,7 +2,7 @@
 	"name": "Platinum Theme",
 	"colors": {
 		"editor.background": "#33373c",
-		"editor.foreground": "#dee2e6",
+		"editor.foreground": "#d2d4d5",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
@@ -15,7 +15,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#899397"
 			}
 		},
 		{
@@ -25,7 +25,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#3aebff"
+				"foreground": "#d5d2d2"
 			}
 		},
 		{
@@ -44,6 +44,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
+				"fontStyle": "italic strikethrough",
 				"foreground": "#FF5370"
 			}
 		},
@@ -55,27 +56,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
-			}
-		},
-		{
-			"name": "Operator, Misc",
-			"scope": [
-				"keyword.control",
-				"constant.other.color",
-				"punctuation",
-				"meta.tag",
-				"punctuation.definition.tag",
-				"punctuation.separator.inheritance.php",
-				"punctuation.definition.tag.html",
-				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html",
-				"punctuation.section.embedded",
-				"keyword.other.template",
-				"keyword.other.substitution"
-			],
-			"settings": {
-				"foreground": "#48cae4"
+				"foreground": "#d39efe"
 			}
 		},
 		{
@@ -99,7 +80,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#e9c46a"
+				"foreground": "#ffd262"
 			}
 		},
 		{
@@ -108,7 +89,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#eb957e"
+				"foreground": "#6cdae7"
 			}
 		},
 		{
@@ -118,7 +99,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#f6c8cb"
 			}
 		},
 		{
@@ -134,7 +115,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#fd8585"
 			}
 		},
 		{
@@ -165,7 +146,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#fe926d"
 			}
 		},
 		{
@@ -294,7 +275,7 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#ba74e9"
 			}
 		},
 		{
