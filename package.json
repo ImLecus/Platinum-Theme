@@ -1,0 +1,21 @@
+{
+  "name": "platinum",
+  "displayName": "Platinum",
+  "description": "A minimal and fresh color theme for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Platinum Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Platinum Theme-color-theme.json"
+      }
+    ]
+  }
+}
