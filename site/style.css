@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --bg: #33373c
+}
+body {
+    background-color: var(--bg);
+}
