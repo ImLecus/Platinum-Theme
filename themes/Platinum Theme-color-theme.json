@@ -1,7 +1,7 @@
 {
 	"name": "Platinum Theme",
 	"colors": {
-		"editor.background": "#33373c",
+		"editor.background": "#32363a",
 		"editor.foreground": "#d2d4d5",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
@@ -56,7 +56,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#d39efe"
+				"foreground": "#c180f7"
 			}
 		},
 		{

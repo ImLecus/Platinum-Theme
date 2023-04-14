@@ -1,8 +1,9 @@
 comment: #899397, italic
 variables: #d5d2d2
-keywords: #d39efe
+keywords: #c180f7
 functions: #ffd262
 block-level-variables: #6cdae7
 numeric: #fd8585
 strings + regex:#acff95
 attributes : #FFCB6B
+bg: #32363a

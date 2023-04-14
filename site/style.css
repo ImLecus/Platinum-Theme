@@ -2,9 +2,52 @@
     margin: 0;
     padding: 0;
 }
+@font-face {
+    font-family: Fira Code;
+    src: url("./FiraCode-VariableFont_wght.ttf");
+}
 :root{
-    --bg: #33373c
+    --bg: #32363a;
+    --font: Fira Code, monospace, serif;
+
+    --orange:   #fe926d;
+    --yellow:   #FFCB6B;
+    --green :   #acff95;
+    --blue:     #6cdae7;
+    --purple:   #c180f7;
+
+    --text :    #d2d4d5;
 }
 body {
     background-color: var(--bg);
+    font-family: var(--font);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 46px;
+    background: linear-gradient(
+       25deg, var(--blue),var(--yellow));
+    background-clip: text;
+    color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}   
+p,h3{
+    color: var(--text);
+}
+h3{
+    font-weight: 300;
+}
+a{
+    text-decoration: none;
+    color: var(--yellow);
+    transition: 0.2s ease-in-out;
+}
+a:hover{
+    color: var(--blue);
 }
