@@ -13,6 +13,7 @@
     --orange:   #fe926d;
     --yellow:   #FFCB6B;
     --green :   #acff95;
+    --teal:     #7deabb;
     --blue:     #6cdae7;
     --purple:   #c180f7;
 
@@ -88,6 +89,9 @@ a:hover{
 .green{
     background-color: var(--green);
 }
+.teal{
+    background-color: var(--teal);
+}
 .blue{
     background-color: var(--blue);
 }
@@ -105,4 +109,12 @@ a:hover{
 }
 .color:hover .text{
     display: block; 
+}
+img{
+    margin: 80px 10px;
+    border-radius: 15px;
+    filter: drop-shadow(0 5px 10px rgba(0,0,0,0.4))
+}
+#palette{
+    margin-bottom: 100px;
 }
