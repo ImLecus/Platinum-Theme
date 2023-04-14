@@ -8,6 +8,7 @@
 }
 :root{
     --bg: #32363a;
+    --black: #32363a;
     --font: Fira Code, monospace, serif;
 
     --orange:   #fe926d;
@@ -110,6 +111,9 @@ a:hover{
 }
 .light{
     background-color: var(--light);
+}
+.black{
+    background-color: var(--black);
 }
 .color .text {
     display: none;

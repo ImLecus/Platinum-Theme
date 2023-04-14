@@ -651,6 +651,15 @@
 			"settings": {
 				"foreground": "#c180f7",
 			}
+		},
+		{
+			"name": "CSS Variables",
+			"scope": [
+				"variable.css"
+			],
+			"settings": {
+				"foreground": "#7deabb",
+			}
 		}
 	]
 }
