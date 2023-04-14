@@ -154,7 +154,7 @@
 				"entity.name"
 			],
 			"settings": {
-				"foreground": "#b7c4c9",
+				"foreground": "#FFCB6B",
 			}
 		},
 		{
@@ -421,11 +421,23 @@
 			"name": "Markdown - Plain",
 			"scope": [
 				"text.html.markdown",
-				"punctuation.definition.list_item.markdown"
+				"meta.paragraph.markdown"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#d2d4d5"
 			}
+		},
+		{
+			"name": "Markdown - Scape",
+			"scope": [
+				"punctuation.definition.raw.markdown",
+				"markup.inline.raw.markdown",
+				"markup.inline.raw.string.markdown"
+			]
+			,
+            "settings": {
+                "foreground": "#acff95"
+            }
 		},
 		{
 			"name": "Markdown - Markup Raw Inline",
@@ -463,7 +475,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f07178"
+				"foreground": "#7deabb"
 			}
 		},
 		{
@@ -473,7 +485,7 @@
 				"markup.bold string"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#7deabb"
 			}
 		},
 		{
@@ -487,7 +499,7 @@
 				"markup.quote markup.bold string"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#7deabb"
 			}
 		},
 		{
@@ -609,6 +621,18 @@
 			],
 			"settings": {
 				"foreground": "#EEFFFF"
+			}
+		},
+		{
+			"name": "Markup - Symbols",
+			"scope":[
+				"punctuation.definition.list.begin.markdown",
+				"punctuation.definition.link.title.begin.markdown",
+				"punctuation.definition.link.title.end.markdown"
+			
+			],
+			"settings": {
+				"foreground": "#c180f7",
 			}
 		}
 	]
