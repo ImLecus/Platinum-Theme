@@ -2,7 +2,27 @@
   "name": "platinum",
   "displayName": "Platinum",
   "description": "A minimal and fresh color theme for Visual Studio Code.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "MarcosGonzlez",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ImLecus/Platinum-Theme"
+  },
+  "keywords": [
+    "theme",
+    "color",
+    "color theme",
+    "platinum",
+    "lecus",
+    "marcos gonzalez",
+    "2023",
+    "fresh",
+    "minimal",
+    "style",
+    "themes",
+    "dark",
+    "dark theme"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },

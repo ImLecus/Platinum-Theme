@@ -79,7 +79,7 @@ a:hover{
     left: -20px;
 }
 .color:hover{
-    transform: translateY(10px);
+    transform: translateY(5px);
 }
 .orange{
     background-color: var(--orange);
