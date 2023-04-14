@@ -136,7 +136,6 @@
 		{
 			"name": "Class, Support",
 			"scope": [
-				"entity.name",
 				"support.type",
 				"support.class",
 				"support.other.namespace.use.php",
@@ -147,6 +146,15 @@
 			],
 			"settings": {
 				"foreground": "#fe926d"
+			}
+		},
+		{
+			"name": "Markdown Titles",
+			"scope":[
+				"entity.name"
+			],
+			"settings": {
+				"foreground": "#b7c4c9",
 			}
 		},
 		{
@@ -445,7 +453,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#fe926d"
 			}
 		},
 		{
@@ -465,7 +473,7 @@
 				"markup.bold string"
 			],
 			"settings": {
-				"foreground": "#fe926d"
+				"foreground": "#FFCB6B"
 			}
 		},
 		{
@@ -516,7 +524,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#6cdae7"
 			}
 		},
 		{
@@ -525,7 +533,7 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#c180f7"
 			}
 		},
 		{
