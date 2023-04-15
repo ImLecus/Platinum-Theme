@@ -132,7 +132,7 @@ img{
 #palette{
     margin-bottom: 100px;
 }
-button{
+a.btn{
     border: none;
     outline: none;
     background-color: #32363a;
@@ -143,19 +143,19 @@ button{
     transition: all 0.1s ease-in-out;
     cursor: pointer;
 }
-button:hover{
+a.btn:hover{
     transform: translateY(-5px);
 }
-button:hover div h3{
+a.btn:hover div h3{
     color: var(--yellow);
 }
-button img {
+a.btn img {
     width: 60px;
     height: 60px;
     border-radius: 0;
     margin:0 10px 0 0;
 }
-button div {
+a.btn div {
     height: 60px !important;
     display: flex;
     align-items: center;
