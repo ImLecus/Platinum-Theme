@@ -127,7 +127,10 @@ a:hover{
 img{
     margin: 10px 0 80px 0;
     border-radius: 15px;
-    filter: drop-shadow(0 5px 10px rgba(0,0,0,0.4))
+    filter: drop-shadow(0 5px 10px rgba(0,0,0,0.4));
+}
+#promo{
+    width: 80%;
 }
 #palette{
     margin-bottom: 100px;
@@ -169,4 +172,38 @@ a.btn div {
     height: 250px;
     margin-top: 100px;
     margin-bottom: 0;
+}
+@media(max-width: 769px){
+    body{
+        padding: 0 40px;
+    }
+    h1,h3,p{
+        text-align: center;
+    }
+    .color{
+        margin: 5px;
+    }
+}
+@media(max-width: 500px) {
+    .color {
+        margin: 8px;
+    }
+    #promo{
+        position: absolute;
+        top: 0;
+        border-radius: 0;
+        z-index: -1;
+        width: 100% !important;
+        margin: 0;
+        transform-origin: top;
+        transform: scale(1.5);
+        filter: blur(2px);
+    }
+}
+@media(max-width: 320px) {
+    .color {
+        margin: 4px;
+        width: 30px;
+        height: 30px;
+    }
 }
