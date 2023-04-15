@@ -1,4 +1,4 @@
-# # Platinum Theme
+# Platinum Theme
 
 A minimal and bright color theme for Visual Studio Code
 
