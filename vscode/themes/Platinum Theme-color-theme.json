@@ -1,11 +1,11 @@
 {
 	"name": "Platinum Theme",
 	"colors": {
-		"editor.background": "#32363a",
+		"editor.background": "#242729",
 		"editor.foreground": "#d2d4d5",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"terminal.background": "#2b2f32",
+		"terminal.background": "#242729",
 		"terminal.foreground": "#d2d4d5",
 		"terminal.ansiBrightYellow": "#FFCB6B",
 		"terminal.ansiBrightRed": "#fe926d",
@@ -21,7 +21,7 @@
 		"terminal.ansiGreen": "#acff95",
 		"terminal.ansiCyan": "#7deabb",
 		"terminal.ansiMagenta": "#c180f7",
-		"sideBar.background": "#2b2f32"
+		"sideBar.background": "#242729"
 	},
 	"tokenColors": [
 		{

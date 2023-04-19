@@ -7,8 +7,8 @@
     src: url("./FiraCode-VariableFont_wght.ttf");
 }
 :root{
-    --bg: #32363a;
-    --black: #32363a;
+    --bg: #242729;
+    --black: #242729;
     --font: Fira Code, monospace, serif;
 
     --orange:   #fe926d;
@@ -23,7 +23,7 @@
     --comment:  #899397;
 }
 body {
-    background-color: #282b2e;
+    background-color: #242729;
     font-family: var(--font);
     display: flex;
     flex-direction: column;

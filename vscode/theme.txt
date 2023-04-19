@@ -6,4 +6,4 @@ block-level-variables: #6cdae7
 numeric: #fd8585
 strings + regex:#acff95
 attributes : #FFCB6B
-bg: #32363a
+bg: #242729
