@@ -9,4 +9,4 @@ programming languages, but also JSON and Markdown file creation.
 
 ## Screenshots
 
-![](https://platinum-theme.netlify.app/example-react.png)
+![](https://platinum-theme.netlify.app/mockup.png)
