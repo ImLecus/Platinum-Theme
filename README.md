@@ -1,4 +1,4 @@
-![image](https://github.com/ImLecus/Platinum-Theme/assets/84639411/340fdea5-10d2-41d2-a7c9-b75f09e676b5)# Platinum Theme
+# Platinum Theme
 
 A minimal and bright color theme for Visual Studio Code
 
