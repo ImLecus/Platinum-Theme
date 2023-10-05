@@ -42,7 +42,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#d5d2d2"
+				"foreground": "#6cdae7"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 		},
 		{
 			"name": "Markdown Titles",
-			"scope":[
+			"scope": [
 				"entity.name"
 			],
 			"settings": {
@@ -450,11 +450,10 @@
 				"punctuation.definition.raw.markdown",
 				"markup.inline.raw.markdown",
 				"markup.inline.raw.string.markdown"
-			]
-			,
-            "settings": {
-                "foreground": "#acff95"
-            }
+			],
+			"settings": {
+				"foreground": "#acff95"
+			}
 		},
 		{
 			"name": "Markdown - Markup Raw Inline",
@@ -642,11 +641,10 @@
 		},
 		{
 			"name": "Markup - Symbols",
-			"scope":[
+			"scope": [
 				"punctuation.definition.list.begin.markdown",
 				"punctuation.definition.link.title.begin.markdown",
 				"punctuation.definition.link.title.end.markdown"
-			
 			],
 			"settings": {
 				"foreground": "#c180f7",
